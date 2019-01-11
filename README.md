@@ -30,4 +30,4 @@ berhasil
 
 gagal
 
-![alt_text](https://github.com/maharani26/Maharani-XIRPL2-22-Modul5/blob/master/gagal.JPG)
+![alt_text](https://github.com/maharani26/Maharani-XIRPL2-22-Modul5/blob/master/failed.JPG)
